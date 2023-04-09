@@ -1,0 +1,17 @@
+[user]
+	name = Igor Buzykin
+	email = lexemz@gmail.com
+[core]
+	excludesfile = ~/.gitignore
+	editor = nano
+[alias]
+	co = checkout
+	ci = commit
+	st = status -s
+	br = branch -v
+	hist = log --pretty=format:'%C(yellow)%h %C(green)%ad %C(reset)| %C(cyan)%s %C(red)%d %C(reset)[%an]' --graph --date=short
+	hista = log --pretty=format:'%C(yellow)%h %C(green)%ad %C(reset)| %C(cyan)%s %C(red)%d %C(reset)[%an]' --graph --date=short --all
+	type = cat-file -t
+	dump = cat-file -p
+[init]
+	defaultBranch = master
