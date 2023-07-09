@@ -101,7 +101,7 @@
 		<key>xcode.syntax.attribute</key>
 		<string>0.823529 0.580392 0.364706 1</string>
 		<key>xcode.syntax.character</key>
-		<string>1 0.12028 0.522567 1</string>
+		<string>1 0 0.465422 1</string>
 		<key>xcode.syntax.comment</key>
 		<string>0.486721 0.709574 0.330699 1</string>
 		<key>xcode.syntax.comment.doc</key>
@@ -159,7 +159,7 @@
 		<key>xcode.syntax.regex.other</key>
 		<string>0.65098 0.698039 0.752941 1</string>
 		<key>xcode.syntax.string</key>
-		<string>1 0.12028 0.522567 1</string>
+		<string>1 0 0.465422 1</string>
 		<key>xcode.syntax.url</key>
 		<string>0.823529 0.580392 0.364706 1</string>
 	</dict>
