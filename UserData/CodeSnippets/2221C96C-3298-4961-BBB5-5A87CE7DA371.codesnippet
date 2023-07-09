@@ -3,28 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>arrangeactassert</string>
+	<string>pprint</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>// Arrange
-&lt;#arrange#&gt;
-
-// Act
-&lt;#act#&gt;
-
-// Assert
-&lt;#assert#&gt;</string>
+	<string>print("LEXEMZ - \(type(of: self)):\(#function)::\(#line)&gt;&gt;&gt; &lt;#any#&gt;")</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>4611D766-09AF-4F2B-A8D3-717CCF2494B6</string>
+	<string>2221C96C-3298-4961-BBB5-5A87CE7DA371</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Arrange-Act-Assert</string>
+	<string>Custom Print</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
