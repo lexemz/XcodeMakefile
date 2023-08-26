@@ -10,5 +10,6 @@ install:
 sync:
 	rm -r ./UserData
 	cp -r $(XCODE_PATH)/UserData ./UserData
-	git commit -am "Sync xcode files"
+	git add .
+	git commit -m "Sync xcode files"
 	git push
