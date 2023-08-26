@@ -32,8 +32,6 @@
 	<integer>1</integer>
 	<key>DVTFontSizeModifier</key>
 	<integer>7</integer>
-	<key>DVTLineSpacing</key>
-	<real>1</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.220706 0.235137 0.264 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -166,69 +164,69 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.character</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>JetBrainsMono-Italic - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>JetBrainsMono-Light - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.number</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.regex</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.regex.capturename</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.regex.charname</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.regex.number</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.regex.other</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.string</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 		<key>xcode.syntax.url</key>
-		<string>JetBrainsMono-Regular - 11.0</string>
+		<string>Hack-Regular - 13.0</string>
 	</dict>
 </dict>
 </plist>
