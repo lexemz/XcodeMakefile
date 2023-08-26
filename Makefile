@@ -7,7 +7,7 @@ install:
 	cp -r ./UserData $(XCODE_PATH)
 	cp ./.gitconfig ~/
 
-sync:
+backup:
 	rm -r ./UserData
 	cp -r $(XCODE_PATH)/UserData ./UserData
 	git add .
